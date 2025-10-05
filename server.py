@@ -872,7 +872,7 @@ if __name__ == '__main__':
     load_known_faces()
     
     print("=" * 60)
-    print(f"Web dashboard: http://0.0.0.0:5000")
+    print(f"Web Dashboard: http://0.0.0.0:5000")
     print(f"API Endpoint: http://0.0.0.0:5000/identify")
     print(f"Health Check: http://0.0.0.0:5000/health")
     print(f"Known Faces Directory: {KNOWN_FACES_DIR}/")
